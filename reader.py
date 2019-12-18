@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import MinMaxScaler, StandardScaler
 from sklearn.pipeline import make_pipeline
 from scipy import signal
-import pickle
+# import pickle
 import pandas as pd
 import robin_stocks as r
 
