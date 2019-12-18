@@ -7,7 +7,6 @@ from sklearn.pipeline import make_pipeline
 from scipy import signal
 import pickle
 import pandas as pd
-from pandas_datareader import data
 import robin_stocks as r
 
 login = r.login("apetrolino1990@gmail.com", "Poopdick1!")
